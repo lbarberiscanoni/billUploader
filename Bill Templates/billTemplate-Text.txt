@@ -1,0 +1,10 @@
+Name:
+Last Name:
+School:
+A Bill to [enter title]
+BE IT HEREBY ENACTED BY THE YMCA MODEL LEGISLATURE OF SOUTH CAROLINA
+Section 1: [State the new policy in a brief declarative sentence, or in as few sentences as possible.]
+Section 2: [Define any ambiguous terms inherent in the first section.]
+Section 3: [Name the government agency that will oversee the enforcement of the bill along with the specific enforcement mechanism.]
+Section 4: [Explain what impacts you expect would come once the bill is implemented]
+Section 5: [Indicate the implementation date/timeframe in the day-month-year format]
